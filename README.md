@@ -107,8 +107,8 @@ Help me research and create this week's AI newsletter
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/kumarAbhishek2004/Ai_Newletter.git
-cd Ai_Newletter
+git clone https://github.com/kumarAbhishek2004/MCP_AI_Newsletter
+cd MCP_AI_Newsletter
 ```
 
 ### Step 2: Install Dependencies
